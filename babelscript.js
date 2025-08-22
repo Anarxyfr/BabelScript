@@ -7,14 +7,6 @@
  * @license MIT
  */
 
-/**
-         * [HtmlScript]{@link https://github.com/anarxyfr/BabelScript}
-         *
-         * @version 1.0.0
-         * @author anarxyfr
-         * @copyright anarxyfr 2025
-         * @license MIT
-         */
         (function () {
             const babelScript = document.createElement('script');
             babelScript.src = 'https://unpkg.com/@babel/standalone@7.28.3/babel.min.js';
